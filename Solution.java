@@ -83,5 +83,6 @@ class Codechef
                 System.out.println();
             }
         }
+        sc.close();
 	}
 }
